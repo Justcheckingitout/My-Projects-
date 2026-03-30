@@ -1,4 +1,4 @@
-🎥 Arlo Camera Management System
+# 🎥 Arlo Camera Management System
 
 A comprehensive PC-based replacement for your Arlo VM4500 base station that provides live streaming, SMS motion alerts, and local video storage.
 
@@ -318,4 +318,4 @@ This project is unofficial and not endorsed by Arlo/Netgear. Use at your own ris
 - [Arlo Docs](https://arlo.readme.io/) - Official API reference
 - [Twilio Docs](https://www.twilio.com/docs/sms) - SMS setup
 
-**Status:** ✅ Ready to use | Last Updated: 20
+**Status:** ✅ Ready to use | Last Updated: 2024
