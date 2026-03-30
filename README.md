@@ -315,7 +315,7 @@ This project is unofficial and not endorsed by Arlo/Netgear. Use at your own ris
 ### Quick Links
 - [Setup Guide](SETUP_GUIDE.md) - Detailed instructions
 - [API Documentation](http://localhost:8000/docs) - Swagger UI
-- [Arlo Docs](https://arlo.readme.io/) - Official API reference
+- [Arlo Docs](https://us.arlo.com/pages/support-docs) - Official API reference
 - [Twilio Docs](https://www.twilio.com/docs/sms) - SMS setup
 
 **Status:** ✅ Ready to use | Last Updated: 2024
