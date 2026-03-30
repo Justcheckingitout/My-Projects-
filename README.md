@@ -310,7 +310,7 @@ This project is unofficial and not endorsed by Arlo/Netgear. Use at your own ris
 
 ---
 
-**Built with ❤️ | Made for Arlo users who want more control**
+**Built with ❤️ | Made for Arlo users who want more control and nicer on the pocket book**
 
 ### Quick Links
 - [Setup Guide](SETUP_GUIDE.md) - Detailed instructions
