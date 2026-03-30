@@ -297,7 +297,7 @@ Found a bug? Have suggestions? Open an issue or submit a PR!
 
 - 📖 **Setup Help:** See [SETUP_GUIDE.md](SETUP_GUIDE.md)
 - 🆘 **API Docs:** http://localhost:8000/docs
-- 🔗 **Arlo API:** https://arlo.readme.io/
+- 🔗 **Arlo API:** https://us.arlo.com/pages/support-docs
 - 💬 **Twilio Docs:** https://www.twilio.com/docs/sms
 
 ## License
